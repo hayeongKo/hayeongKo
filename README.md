@@ -1,8 +1,8 @@
 ## 👉 About me
-- 🍏 UMC 1st in CAU
+**- 🍏 UMC 1st in CAU
 - 🦁 LIKELION 10th in CAU
 - 🦁 LIKELION 11th, 12th in CAU, Club Officer
-- 👨‍💼 Intern in Information Technology Research Institude of NURIINFOS
+- 👨‍💼 Intern in Information Technology Research Institude of NURIINFOS**
 
 ## 👉 I’m studying …
 <div align=center> 
