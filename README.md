@@ -35,9 +35,11 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
 </div>
 
-##  👉 study log
-<div style="text-align: left;">
-    <div style="text-align: left;"> <a href=https://every-goofy-goody.notion.site/every-goofy-goody/5f7fc648c7d244feacbc324ba7dbb5bb> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://every-goofy-goody.notion.site/every-goofy-goody/5f7fc648c7d244feacbc324ba7dbb5bb"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-</div>
+## 👉 study log
+<a href=https://velog.io/@hayeong/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@hayeong/posts"> </a>
+<a href=https://every-goofy-goody.notion.site/every-goofy-goody/5f7fc648c7d244feacbc324ba7dbb5bb> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://every-goofy-goody.notion.site/every-goofy-goody/5f7fc648c7d244feacbc324ba7dbb5bb"> </a>
+
+## 👨‍🌾
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayeongKo&exclude_repo=UMC_iOS&layout=compact)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=polarpheno)](https://solved.ac/polarpheno)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeongKo&show_icons=true&theme=blueberry)
