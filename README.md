@@ -35,10 +35,6 @@
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat&logo=postgresql&logoColor=white">
 </div>
 
-## 🌀 study log
-<a href=https://velog.io/@hayeong/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white&link=https://velog.io/@hayeong/posts"> </a>
-<a href=https://every-goofy-goody.notion.site/every-goofy-goody/5f7fc648c7d244feacbc324ba7dbb5bb> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://every-goofy-goody.notion.site/every-goofy-goody/5f7fc648c7d244feacbc324ba7dbb5bb"> </a>
-
 ## 👨‍🌾 projects
 | 기간 | 프로젝트명 | 정보 | 비고 |
 | --- | --- | --- | --- |
@@ -49,8 +45,3 @@
 | 2023.01 ~ 2023.05 | [중앙대 멋사 웹페이지](https://cau-likelion.org/) | 중앙대 멋사인을 위한 회원 관리 및 추억 아카이빙 서비스 구축 | 사이드프로젝트 중하하 |
 | 2022.10 ~ 2022.11 | Homie | 공유 텃밭 예약 플랫폼 서비스 구현 | 멋쟁이사자처럼 10기 중커톤 |
 | 2022.07 ~ 2022.08 | May I | 전문가-리포터 매칭 서비스 구현 | 멋쟁이사자처럼 10기 해커톤 |
-
-## 🍓
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayeongKo&exclude_repo=UMC_iOS&layout=compact)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=polarpheno)](https://solved.ac/polarpheno)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayeongKo&show_icons=true&theme=blueberry)
